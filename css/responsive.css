@@ -1,0 +1,243 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px) { 
+
+    .navbar .container{
+        padding:0 16px;
+    }
+    .openNav{
+        display: block;
+    }
+    .navbar{
+        padding:15px 0px;
+    }
+    .banner_text {
+        padding: 140px 0px 100px 0px;
+    }
+    .banner_text h1 {
+        font-size: 60px;
+    }
+    .banner_text p {
+        font-size: 20px;
+    }
+    #service_part {
+        padding: 45px 0px 50px 0px;
+    }
+    .service_head h2 {
+        padding-bottom: 40px;
+    }
+    .service_info {
+        margin-bottom: 45px;
+    }
+    .service_info p{
+        padding:0;
+    }
+    #about_part {
+        padding: 50px 0px 60px 0px;
+    }
+    .about_text p {
+        margin-bottom: 40px;
+        padding-right:0;
+    }
+    .about_text a{
+        display:inline-block;
+        margin-bottom:40px;
+    }
+    .about_text_2 {
+        padding: 70px 0px;
+    }
+    .about_text_2 h2 {
+        font-size: 60px;
+        margin-bottom: 40px;
+    }
+    .about_text_2 p {
+        margin-bottom: 50px;
+    }
+    #team_part {
+        padding: 50px 0px 70px 0px;
+    }
+    .team_head h2 {
+        font-size: 60px;
+    }
+    .team_head {
+        padding-bottom: 50px;
+    }
+     #contact_part {
+         padding: 65px 0px;
+     }
+    .contact_left h2 {
+        margin-bottom: 45px;
+    }
+    .contact_social{
+        margin-bottom: 50px;
+    }
+    .footer_left ul {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .footer_right p{
+        text-align:center;
+    }
+
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .navbar{
+        padding:15px 0px;
+    }
+    .banner_text {
+        padding: 170px 0px 120px 0px;
+    }
+    .banner_text h1 {
+        font-size: 60px;
+    }
+    .banner_text p {
+        font-size: 20px;
+    }
+    #service_part {
+        padding: 45px 0px 50px 0px;
+    }
+    .service_head h2 {
+        padding-bottom: 40px;
+    }
+    .service_info {
+        margin-bottom: 45px;
+    }
+    #about_part {
+        padding: 50px 0px 60px 0px;
+    }
+    .about_text p {
+        margin-bottom: 40px;
+    }
+    .about_text a{
+        display:inline-block;
+        margin-bottom:40px;
+    }
+    .about_text_2 {
+        padding: 70px 0px;
+    }
+    .about_text_2 h2 {
+        font-size: 60px;
+        margin-bottom: 40px;
+    }
+    .about_text_2 p {
+        margin-bottom: 50px;
+    }
+    #team_part {
+        padding: 50px 0px 70px 0px;
+    }
+    .team_head h2 {
+        font-size: 60px;
+    }
+    .team_head {
+        padding-bottom: 50px;
+    }
+     #contact_part {
+         padding: 65px 0px;
+     }
+    .contact_left h2 {
+        margin-bottom: 45px;
+    }
+    .contact_social{
+        margin-bottom: 50px;
+    }
+    .footer_left ul {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .footer_right p{
+        text-align:center;
+    }
+
+}
+
+
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px) { 
+
+    .openNav{
+        display: block;
+    }
+    .navbar{
+        padding:15px 0px;
+    }
+    .banner_text {
+        padding: 200px 0px 150px 0px;
+    }
+    .service_info {
+        margin-bottom: 45px;
+    }
+    .about_text{
+        text-align:center;
+    }
+    .about_text a{
+        display:inline-block;
+        margin-bottom:40px;
+    }
+    .about_image{
+        text-align:center;
+    }
+    .about_text_2{
+        text-align:center;
+        padding: 80px 0px;
+    }
+    .about_text_2 p {
+        margin-bottom: 80px;
+    }
+    .overlay_text h4 {
+        font-size: 25px;
+    }
+    #contact_part {
+        padding: 100px 0px;
+    }
+    .contact_social{
+        margin-bottom: 50px;
+    }
+    .footer_left ul {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .footer_right p{
+        text-align:center;
+    }
+    
+}
+
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) { 
+
+
+
+}
+
+
+
